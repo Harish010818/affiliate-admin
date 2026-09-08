@@ -13,7 +13,7 @@ npm install
 cp  .env.local
 ```
 
-Set `NEXT_PUBLIC_API_URL` to the API server's URL.
+Set `API_URL` to the API server's URL.
 
 ```bash
 npm run dev     # runs on http://localhost:3002
