@@ -1,4 +1,4 @@
-const API_URL = process.env.API_URL || 'http://localhost:5000';
+const API_URL = process.env.SERVER_API_URL || "https://affiliate-server-280d.onrender.com";
 
 export async function apiFetch(path, options = {}) {
   const prefix = "/api/v1"
