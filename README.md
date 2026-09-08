@@ -35,4 +35,4 @@ npm run dev     # runs on http://localhost:3002
 | `/applications`           | List with status filter tabs |
 | `/applications/[id]`      | Full detail + Approve / Reject / Request changes |
 | `/affiliates`             | List of approved affiliates with current metrics |
-| `/affiliates/[userId]`    | Edit that affiliate's metrics and monthly targets |
+| `/affiliates/[userId]`    | Edit that affiliate's metrics and monthly targets|
